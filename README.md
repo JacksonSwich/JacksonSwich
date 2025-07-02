@@ -9,7 +9,7 @@
 
 ### 🔥 Моя статистика GitHub:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacksonSwich&layout=compact&theme=dracula)](https://github.com/JacksonSwich)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JacksonSwich&show_icons=true&theme=radical)](https://github.com/JacksonSwich)
+
 ![Stats](https://github-readme-stats.vercel.app/api?username=JacksonSwich&show_icons=true&theme=radical)
 
 ### 📫 Как связаться:
